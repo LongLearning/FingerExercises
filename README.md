@@ -32,14 +32,14 @@ Basic Ruby Exercises and Algorithm Concepts
 3. Then write your methods and rund the tests again until all pass. Add testcases while you code, when you forgot one.
 
 ##Links
-####Minitest
+###Minitest     
 * [GitHub](https://github.com/seattlerb/minitest)  
 * [Cheat Sheet](http://danwin.com/2013/03/ruby-minitest-cheat-sheet/)  
-####Ruby
+###Ruby     
 * [Ruby Docs](http://www.ruby-doc.org) 
-####Speed and the Big-O-Notation
+###Speed and the Big-O-Notation
 * [Video](https://www.youtube.com/watch?v=V6mKVRU1evU) 
-####More Exercises
+###More Exercises     
 * [Project Euler](https://projecteuler.net/problems)       
 * [Ruby Challenges](http://ruby-challenge.rubylearning.org)      
 * [more learning material](http://iwanttolearnruby.com)    
