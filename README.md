@@ -22,6 +22,7 @@ Basic Ruby Exercises and Algorithm Concepts
 2. Find exercises for your level.
 3. If there are provided tests run them first and see them fail.
 4. Write your method(s) and run the tests until all pass.
+5. Make a pull request to github, and I give you feedback.
 
 ###You could also
 * Add more tests to the spec file
@@ -32,6 +33,9 @@ Basic Ruby Exercises and Algorithm Concepts
 1. Find your own exercise
 2. Write the test(s) first and see them fail. Think about edge cases like having default values, wrong classes as input or too small or large data.
 3. Then write your methods and rund the tests again until all pass. Add testcases while you code, when you forgot one.
+
+###Problems?   
+* Make a pull request and ask there your questions.       
 
 ##Links
 ###Minitest     
