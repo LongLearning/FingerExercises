@@ -22,7 +22,7 @@ Basic Ruby Exercises and Algorithm Concepts
 2. Create a new branch.
 3. If there are provided tests run them first and see them fail.
 4. Write your method(s) and run the tests until all pass.
-5. Make a pull request to github, and I give you feedback.
+5. Make a pull request to github, and I give you feedback.        
 Read the test.rb and test_spec.rb files for more information.       
 
 ####You could also
