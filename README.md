@@ -22,10 +22,12 @@ Basic Ruby Exercises and Algorithm Concepts
 2. Find exercises for your level.
 3. If there are provided tests run them first and see them fail.
 4. Write your method(s) and run the tests until all pass.
+
 ###You could also
 * Add more tests to the spec file
 * Test the speed of your methods 
 * Find the shortest and fastest implementation for the problem you can think of
+
 ###Later
 1. Find your own exercise
 2. Write the test(s) first and see them fail. Think about edge cases like having default values, wrong classes as input or too small or large data.
