@@ -33,15 +33,15 @@ Basic Ruby Exercises and Algorithm Concepts
 
 ##Links
 ####Minitest
-[GitHub](https://github.com/seattlerb/minitest)
-[Cheat Sheet](http://danwin.com/2013/03/ruby-minitest-cheat-sheet/)
+-[GitHub](https://github.com/seattlerb/minitest)
+-[Cheat Sheet](http://danwin.com/2013/03/ruby-minitest-cheat-sheet/)
 ####Ruby
-[Ruby Docs](http://www.ruby-doc.org)
+-[Ruby Docs](http://www.ruby-doc.org)
 ####Speed and the Big-O-Notation
-[Video](https://www.youtube.com/watch?v=V6mKVRU1evU)
+-[Video](https://www.youtube.com/watch?v=V6mKVRU1evU)
 ####More Exercises
-[Project Euler](https://projecteuler.net/problems)
-[Ruby Challenges](http://ruby-challenge.rubylearning.org)
-[more learning material](http://iwanttolearnruby.com)
+-[Project Euler](https://projecteuler.net/problems)
+-[Ruby Challenges](http://ruby-challenge.rubylearning.org)
+-[more learning material](http://iwanttolearnruby.com)
 
 
