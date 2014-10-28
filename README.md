@@ -40,8 +40,8 @@ Basic Ruby Exercises and Algorithm Concepts
 ####Speed and the Big-O-Notation
 *[Video](https://www.youtube.com/watch?v=V6mKVRU1evU) 
 ####More Exercises
-*[Project Euler](https://projecteuler.net/problems) 
-*[Ruby Challenges](http://ruby-challenge.rubylearning.org)  
-*[more learning material](http://iwanttolearnruby.com)  
+*[Project Euler](https://projecteuler.net/problems)       
+*[Ruby Challenges](http://ruby-challenge.rubylearning.org)      
+*[more learning material](http://iwanttolearnruby.com)    
 
 
